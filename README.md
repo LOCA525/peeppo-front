@@ -1,6 +1,7 @@
 ![image](https://github.com/ffinal4/front-end/assets/107457719/60e884e6-d7d9-44c9-8277-a2cab9b46832)
 
 # [PEEPPO](https://peeppo.site/)
+[핍포바로가기](https://peeppo.site/)
 
 ### 프로젝트 소개
 
